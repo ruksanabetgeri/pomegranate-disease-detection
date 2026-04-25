@@ -12,11 +12,11 @@
 
 # GitHub Push TODO
 
-- [ ] Step 1: Install Git via winget
-- [ ] Step 2: Initialize local git repository
-- [ ] Step 3: Configure git user.name and user.email
-- [ ] Step 4: Stage and commit all project files
-- [ ] Step 5: Create GitHub repository (public)
+- [x] Step 1: Install Git via winget
+- [x] Step 2: Initialize local git repository
+- [x] Step 3: Configure git user.name and user.email
+- [x] Step 4: Stage and commit all project files
+- [x] Step 5: Create GitHub repository (public)
 - [ ] Step 6: Add remote origin and push main branch
 - [ ] Step 7: Verify repository on GitHub
 
