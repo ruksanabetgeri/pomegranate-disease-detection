@@ -1,0 +1,33 @@
+# Large model files
+*.h5
+*.hdf5
+*.pkl
+*.pth
+
+# Dataset folders (too large for GitHub)
+Pomegranate Diseases Dataset/Pomegranate Dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
