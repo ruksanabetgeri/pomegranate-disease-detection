@@ -17,8 +17,8 @@
 - [x] Step 3: Configure git user.name and user.email
 - [x] Step 4: Stage and commit all project files
 - [x] Step 5: Create GitHub repository (public)
-- [ ] Step 6: Add remote origin and push main branch
-- [ ] Step 7: Verify repository on GitHub
+- [x] Step 6: Add remote origin and push main branch
+- [x] Step 7: Verify repository on GitHub
 
 **Instructions:** After edits, run `streamlit run \"Pomegranate Diseases Dataset/app.py\"`, upload pomegranate image from testing folder, click Detect. All features should appear.
 
