@@ -2,14 +2,12 @@
 
 ## Model Architecture & Training ✅
 
-**How I Built This Model (Tell Your Mam):**
-
-### 1. **Dataset** (3000+ images)
+### 1. **Dataset** (7000+ images)
 ```
 Pomegranate Diseases Dataset/
-├── training/ (80%) - Alternaria, Anthracnose, etc (8 classes)
-├── validation/ (10%)
-└── testing/ (10%)
+├── training/ (70%) - Alternaria, Anthracnose, etc (8 classes)
+├── validation/ (15%)
+└── testing/ (15%)
 ```
 
 ### 2. **Model**: EfficientNetB0 (Transfer Learning)
