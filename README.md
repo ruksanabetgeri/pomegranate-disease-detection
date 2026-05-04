@@ -22,9 +22,6 @@ EfficientNetB0 (42M params) + GlobalAvgPool + Dense(256) + Dropout + Dense(128) 
 **Stage 1**: Frozen base + train head (Adam, 12 epochs)
 **Stage 2**: Unfreeze top 25 layers (Adam 1e-5, 12 epochs)
 
-**Augmentation** (robustness):
-```
-Rotation ±20°, shifts 20%, zoom, flip, brightness ±20%
 ```
 
 **Class Weights** (handled imbalanced data):
