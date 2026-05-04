@@ -2,7 +2,7 @@
 
 ## Model Architecture & Training ✅
 
-### 1. **Dataset** (7000+ images)
+### 1. **Dataset** (6000+ images)
 ```
 Pomegranate Diseases Dataset/
 ├── training/ (70%) - Alternaria, Anthracnose, etc (8 classes)
